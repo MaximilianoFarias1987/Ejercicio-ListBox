@@ -1,0 +1,20 @@
+C:\Users\Maxi Farias\Desktop\Tecnicatura universitaria en programacion\Programacion 2\Proyectos\Unidad1\Ejercicio2\Ejercicio2_GuiaEstudio\bin\Debug\Ejercicio2_GuiaEstudio.exe.config
+C:\Users\Maxi Farias\Desktop\Tecnicatura universitaria en programacion\Programacion 2\Proyectos\Unidad1\Ejercicio2\Ejercicio2_GuiaEstudio\bin\Debug\Ejercicio2_GuiaEstudio.exe
+C:\Users\Maxi Farias\Desktop\Tecnicatura universitaria en programacion\Programacion 2\Proyectos\Unidad1\Ejercicio2\Ejercicio2_GuiaEstudio\bin\Debug\Ejercicio2_GuiaEstudio.pdb
+C:\Users\Maxi Farias\Desktop\Tecnicatura universitaria en programacion\Programacion 2\Proyectos\Unidad1\Ejercicio2\Ejercicio2_GuiaEstudio\obj\Debug\Ejercicio2_GuiaEstudio.csprojAssemblyReference.cache
+C:\Users\Maxi Farias\Desktop\Tecnicatura universitaria en programacion\Programacion 2\Proyectos\Unidad1\Ejercicio2\Ejercicio2_GuiaEstudio\obj\Debug\Ejercicio2_GuiaEstudio.frmListboxAOtro.resources
+C:\Users\Maxi Farias\Desktop\Tecnicatura universitaria en programacion\Programacion 2\Proyectos\Unidad1\Ejercicio2\Ejercicio2_GuiaEstudio\obj\Debug\Ejercicio2_GuiaEstudio.Properties.Resources.resources
+C:\Users\Maxi Farias\Desktop\Tecnicatura universitaria en programacion\Programacion 2\Proyectos\Unidad1\Ejercicio2\Ejercicio2_GuiaEstudio\obj\Debug\Ejercicio2_GuiaEstudio.csproj.GenerateResource.cache
+C:\Users\Maxi Farias\Desktop\Tecnicatura universitaria en programacion\Programacion 2\Proyectos\Unidad1\Ejercicio2\Ejercicio2_GuiaEstudio\obj\Debug\Ejercicio2_GuiaEstudio.csproj.CoreCompileInputs.cache
+C:\Users\Maxi Farias\Desktop\Tecnicatura universitaria en programacion\Programacion 2\Proyectos\Unidad1\Ejercicio2\Ejercicio2_GuiaEstudio\obj\Debug\Ejercicio2_GuiaEstudio.exe
+C:\Users\Maxi Farias\Desktop\Tecnicatura universitaria en programacion\Programacion 2\Proyectos\Unidad1\Ejercicio2\Ejercicio2_GuiaEstudio\obj\Debug\Ejercicio2_GuiaEstudio.pdb
+C:\Users\Maxi Farias\Documents\GitHub\prueba-de-carga-1w1111856FariasMaximilianoRoberto\Ejercicio2_GuiaEstudio\bin\Debug\Ejercicio2_GuiaEstudio.exe.config
+C:\Users\Maxi Farias\Documents\GitHub\prueba-de-carga-1w1111856FariasMaximilianoRoberto\Ejercicio2_GuiaEstudio\bin\Debug\Ejercicio2_GuiaEstudio.exe
+C:\Users\Maxi Farias\Documents\GitHub\prueba-de-carga-1w1111856FariasMaximilianoRoberto\Ejercicio2_GuiaEstudio\bin\Debug\Ejercicio2_GuiaEstudio.pdb
+C:\Users\Maxi Farias\Documents\GitHub\prueba-de-carga-1w1111856FariasMaximilianoRoberto\Ejercicio2_GuiaEstudio\obj\Debug\Ejercicio2_GuiaEstudio.csprojAssemblyReference.cache
+C:\Users\Maxi Farias\Documents\GitHub\prueba-de-carga-1w1111856FariasMaximilianoRoberto\Ejercicio2_GuiaEstudio\obj\Debug\Ejercicio2_GuiaEstudio.frmListboxAOtro.resources
+C:\Users\Maxi Farias\Documents\GitHub\prueba-de-carga-1w1111856FariasMaximilianoRoberto\Ejercicio2_GuiaEstudio\obj\Debug\Ejercicio2_GuiaEstudio.Properties.Resources.resources
+C:\Users\Maxi Farias\Documents\GitHub\prueba-de-carga-1w1111856FariasMaximilianoRoberto\Ejercicio2_GuiaEstudio\obj\Debug\Ejercicio2_GuiaEstudio.csproj.GenerateResource.cache
+C:\Users\Maxi Farias\Documents\GitHub\prueba-de-carga-1w1111856FariasMaximilianoRoberto\Ejercicio2_GuiaEstudio\obj\Debug\Ejercicio2_GuiaEstudio.csproj.CoreCompileInputs.cache
+C:\Users\Maxi Farias\Documents\GitHub\prueba-de-carga-1w1111856FariasMaximilianoRoberto\Ejercicio2_GuiaEstudio\obj\Debug\Ejercicio2_GuiaEstudio.exe
+C:\Users\Maxi Farias\Documents\GitHub\prueba-de-carga-1w1111856FariasMaximilianoRoberto\Ejercicio2_GuiaEstudio\obj\Debug\Ejercicio2_GuiaEstudio.pdb
